@@ -3,7 +3,7 @@
 Este repositório contém uma aplicação Android realizada no Workshop do Desenvolvimento Android Profissional do [
 Fillipe Cordeiro](https://www.androidpro.com.br/author/fillipe-cordeiro/).
 
-![alt text](app.jpg)
+![alt text](app.jpeg)
 
 ## Requisitos
 
